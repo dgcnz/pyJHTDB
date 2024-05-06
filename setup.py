@@ -45,8 +45,9 @@ AUTHOR_EMAIL = GROUP_EMAIL
 #   2. VERSION should contain information on whether or not it depends
 #      on the hdf5 library, since that can't be installed through pip.
 #
-import pyJHTDB
-VERSION = pyJHTDB.version
+# import pyJHTDB
+# VERSION = pyJHTDB.version
+VERSION = '20240506.8'
 #if HDF5_ON:
 #    VERSION += '-hdf5'
 #
