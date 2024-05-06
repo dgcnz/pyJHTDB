@@ -28,3 +28,5 @@ MANIFEST.in
 /.vscode
 *.h5
 *.xmf
+
+.venv
